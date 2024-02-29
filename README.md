@@ -8,7 +8,6 @@ To create a joint, follow these steps:
 2. Click the corresponding Joint button
 
 ### Example: Creating the Pelvis
-
 Create a selection around the pelvis area.
 
 ![alt text](https://github.com/cgikai/240228_documentation_test/blob/main/Rigging-Tool_Set-Up_Create-Selection_600.gif?raw=true)
